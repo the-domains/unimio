@@ -1,0 +1,77 @@
+name: Unimio
+analytics: {}
+purpose:
+  - type: external
+    url: 'http://unimio.com/'
+    label: Together as one
+github: true
+description: live the life you love to live
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+author:
+  name: Bradley
+  url: www.unimio.com
+  email: bradley@unimio.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e81f2904-a92e-439e-8753-9c860284766a.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/e81f2904-a92e-439e-8753-9c860284766a.jpg
+    metadata:
+      author: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+      related: []
+      app_links: []
+      '@context': 'http://schema.org'
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+navigation:
+  - type: external
+    name: About
+    url: 'http://unimio.com/about/'
+layout_spectrum: 0.8443785926792771
+color:
+  lightness: 0.3240392575971782
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  saturation: 0.4413600894622505
+  brandStrength: 0.2859866435173899
+  rhythmicContrast: 0.5433710475917906
+content_rating:
+  adult: false
+typography_spectrum: 0.3656294774264097
+opengraph: {}
+title: Unimio
